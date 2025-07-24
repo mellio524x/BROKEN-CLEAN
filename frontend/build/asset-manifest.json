@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b2cf9eb.css",
+    "main.js": "/static/js/main.0a7be952.js",
+    "static/media/Cell Block Ghost.mp3": "/static/media/Cell Block Ghost.9300104e541d0c483d85.mp3",
+    "static/media/Echo Chamber Heart.mp3": "/static/media/Echo Chamber Heart.f20fd71fb20cc98a68d2.mp3",
+    "static/media/The Lie I Called Home.mp3": "/static/media/The Lie I Called Home.dc623ac3de2ccb11de46.mp3",
+    "static/media/BreadcrumbsintheStatic.mp3": "/static/media/BreadcrumbsintheStatic.1d2f4f21c36efb46ff10.mp3",
+    "static/media/Glass House Amnesia.mp3": "/static/media/Glass House Amnesia.30d9b45e73f7e12ca57c.mp3",
+    "static/media/The Strings I Never Chose.mp3": "/static/media/The Strings I Never Chose.36991fd8d52c62c714b2.mp3",
+    "static/media/Lucid Lies.mp3": "/static/media/Lucid Lies.f7574b404bf699e41799.mp3",
+    "static/media/Heirloom of Fire.mp3": "/static/media/Heirloom of Fire.5edbcb50f3eb0e043647.mp3",
+    "static/media/Dont Let Me Close My Eyes_.mp3": "/static/media/Dont Let Me Close My Eyes_.c39c0a90c794bb27c490.mp3",
+    "static/media/I WASNT IMAGINING IT.mp3": "/static/media/I WASNT IMAGINING IT.185a5851084fcddb2719.mp3",
+    "static/media/Broken_cover.png": "/static/media/Broken_cover.1d47f40e48913ae5692d.png",
+    "index.html": "/index.html",
+    "main.8b2cf9eb.css.map": "/static/css/main.8b2cf9eb.css.map",
+    "main.0a7be952.js.map": "/static/js/main.0a7be952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2cf9eb.css",
+    "static/js/main.0a7be952.js"
+  ]
+}

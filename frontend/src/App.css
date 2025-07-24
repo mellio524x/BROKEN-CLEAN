@@ -1,0 +1,6 @@
+/* App.css */
+
+/* Optional: style for volume slider */
+.volume-slider {
+  accent-color: #a0522d; /* matches 'accent' color from tailwind.config.js */
+}
